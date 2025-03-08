@@ -25,7 +25,7 @@
 
 
 
-for num in range(1001):
+for num in range(1005):
     for i in range(2,num):
         if num%i==0:
             break
