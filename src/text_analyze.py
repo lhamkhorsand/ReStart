@@ -33,3 +33,4 @@ for word in list_of_words:
     if word in tobe:
         tobe_dict[word]+=1
 print(f'To be verbs frequency: {tobe_dict}')
+
